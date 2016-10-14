@@ -5,6 +5,7 @@ import com.github.onlynight.proxy.Subject;
 
 /**
  * Created by lion on 2016/10/14.
+ * 通过静态方法获取代理，这里可以设计成单例，也可以从远程服务中获取被代理对象。
  */
 public class Proxy implements Subject {
 

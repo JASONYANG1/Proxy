@@ -3,7 +3,9 @@ package com.github.onlynight.proxy;
 public class Main {
 
     public static void main(String[] args) {
-//        demo1();
+        System.out.println("demo1>");
+        demo1();
+        System.out.println("\ndemo2>");
         demo2();
     }
 
