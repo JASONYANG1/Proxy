@@ -159,7 +159,7 @@ Proxy end
 ###5.Copy-on-Write代理
 Copy-on-Write代理它是虚拟代理的一种，把复制（克隆）操作延迟到只有在客户端真正需要时才执行。一般来说，对象的深克隆是一个开销较大的操作，Copy-on-Write代理可以让这个操作延迟，只有对象被用到的时候才被克隆。
 
-由于笔者阅历有限暂时不能提供相应的栗子，后续的开发中如果遇到合适的栗子会持续更新，谢谢大家的支持。
+>由于笔者阅历有限暂时不能提供相应的栗子，后续的开发中如果遇到合适的栗子会持续更新，谢谢大家的支持。
 
 [Github 源码: https://github.com/onlynight/Proxy]: https://github.com/onlynight/Proxy
 [Github AIDL]: https://github.com/onlynight/AIDL_demo
