@@ -9,7 +9,7 @@ Proxy代理模式，是GOF中一种常用的设计模式。
 
 >代理对象可以在客户端和目标对象之间起到中介的作用，这样起到了的作用和保护了目标对象的，同时也在一定程度上面减少了系统的耦合度。
 
-![uml类图](./images/uml.png)
+![uml类图](https://github.com/onlynight/Proxy/blob/master/images/uml.png)
 
 **参与者:**
 
