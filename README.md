@@ -1,4 +1,4 @@
-Proxy Pattern
+Proxy1
 =============
 
 概述
