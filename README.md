@@ -1,5 +1,4 @@
-Proxy1
-=============
+Proxy Pattern
 
 概述
 ----
